@@ -1,2 +1,7 @@
-# full-stack-project
-this is hakindia 2025 repo
+Solidity smart contracts code for 
+1. token.sol
+
+2. badgeNFT.sol
+
+
+
